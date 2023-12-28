@@ -1,2 +1,3 @@
 # JavaScript-Course
-my frontend javascript by Hitesh Choudary
+my frontend javascript by Hitesh Choudary on you-tube
+
